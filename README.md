@@ -27,8 +27,3 @@ particulate matter concentrations in Sheffield, UK from January to October 2024.
 ## Requirements
 - R (≥4.3.0)
 - Packages: dplyr, tidyr, lubridate, ggplot2
-
-
-## Contact
-Module: IJC445
-Registration: 250196960
